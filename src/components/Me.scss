@@ -1,0 +1,22 @@
+.profile {
+    width: 400px;
+    height: 300px;
+    display: flex;
+}
+.profile img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+.person {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-bottom: 90px;
+    
+    
+}
+.anchor {
+    text-decoration: none;
+}
